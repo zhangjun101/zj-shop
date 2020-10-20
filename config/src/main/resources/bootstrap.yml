@@ -13,6 +13,6 @@ spring:
           #          password: github 登录密码
           default-label: master #配置文件分支
           search-paths: config #配置文件所在根目录
-          basedir: D:\ideaWorkSpace\zj-shop\config\src\main\resources\config2 # 对于使用git,svn做为后端配置，从远程库获取配置文件，需要存储到本地文件
+          basedir: C:\Users\zby\Desktop\zjshopconfig # 对于使用git,svn做为后端配置，从远程库获取配置文件，需要存储到本地文件
           # 配置中心通过git从远程git库，有时本地的拷贝被污染，这时配置中心无法从远程库更新本地配置,设置force-pull=true，则强制从远程库中更新本地库
           force-pull: true
