@@ -13,3 +13,7 @@ eureka:
 spring:
   application:
     name: goods-server #服务名称
+
+test:
+  name: 123
+
