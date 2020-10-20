@@ -7,8 +7,8 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 import org.springframework.cloud.openfeign.EnableFeignClients;
 
 @SpringBootApplication
-//@EnableEurekaClient
-//@EnableFeignClients
+@EnableEurekaClient
+@EnableFeignClients
 @EnableConfigServer
 public class ConfigServer {
 	public static void main(String[] args) {
