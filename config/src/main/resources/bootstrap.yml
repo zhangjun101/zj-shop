@@ -1,3 +1,6 @@
+server:
+  port: 10000
+
 spring:
   application:
     name: config-server  # 应用名称
@@ -5,8 +8,11 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/huzhicheng/config-only-a-demo #配置文件所在仓库
+          uri: https://github.com/zhangjun101/zj-shop-config.git #配置文件所在仓库
           #          username: github 登录账号
           #          password: github 登录密码
           default-label: master #配置文件分支
-          search-paths: config  #配置文件所在根目录
+          search-paths: config #配置文件所在根目录
+          basedir: D:\ideaWorkSpace\zj-shop\config\src\main\resources\gitConfig # 对于使用git,svn做为后端配置，从远程库获取配置文件，需要存储到本地文件
+          # 配置中心通过git从远程git库，有时本地的拷贝被污染，这时配置中心无法从远程库更新本地配置,设置force-pull=true，则强制从远程库中更新本地库
+          force-pull: true
