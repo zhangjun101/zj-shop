@@ -1,0 +1,15 @@
+server:
+  port: 9010
+
+eureka:
+#  instance:
+#    hostname: goods-server #实例名称
+  client:
+    register-with-eureka: true
+    fetch-registry: false
+    serviceUrl:
+      defaultZone: http://127.0.0.1:9001/eureka/
+
+spring:
+  application:
+    name: goods-server #服务名称

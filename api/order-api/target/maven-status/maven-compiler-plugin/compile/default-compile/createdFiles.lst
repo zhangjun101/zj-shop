@@ -1,0 +1,6 @@
+com\zj\result\Result.class
+com\zj\orderManage\OrderManageFeignFallback.class
+com\zj\orderManage\OrderEntity.class
+com\zj\orderManage\OrderManageFeignFallbackFactory.class
+com\zj\orderManage\OrderManageFeignClient.class
+com\zj\orderManage\OrderManageFeignFallbackFactory$1.class

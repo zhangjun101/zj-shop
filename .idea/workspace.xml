@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26512fbd-4719-40cb-ad8e-20b29bd9e88a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/springboot" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/soft/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\soft\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1idFHpVxR0vEsvRZGQ6Fa3kkxg2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/config/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zj" />
+      <recent name="com.zj.redis" />
+      <recent name="com.zj.orderManage" />
+      <recent name="com.zj.result" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaWorkSpace\zj-shop\common\src\main\java\com\zj" />
+      <recent name="D:\ideaWorkSpace\zj-shop\study\src\main\java\com\zj\Kafka" />
+      <recent name="D:\ideaWorkSpace\zj-shop\study\src\main\java\com\zj" />
+      <recent name="D:\ideaWorkSpace\zj-shop\common\src\main\resources" />
+      <recent name="D:\ideaWorkSpace\zj-shop\api\order-api\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in zj-shop">
+    <configuration name="All in zj-shop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zj-shop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringRedisTemplateStringTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zj.redis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zj.redis" />
+      <option name="MAIN_CLASS_NAME" value="com.zj.redis.StringRedisTemplateStringTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringRedisTemplateStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zj.redis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zj.redis" />
+      <option name="MAIN_CLASS_NAME" value="com.zj.redis.StringRedisTemplateStringTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringRedisTemplateStringTest.test1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zj.redis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zj.redis" />
+      <option name="MAIN_CLASS_NAME" value="com.zj.redis.StringRedisTemplateStringTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringRedisTemplateStringTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zj.redis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zj.redis" />
+      <option name="MAIN_CLASS_NAME" value="com.zj.redis.StringRedisTemplateStringTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zj-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zj.CommonServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in zj-shop" />
+        <item itemvalue="JUnit.StringRedisTemplateStringTest (1)" />
+        <item itemvalue="JUnit.StringRedisTemplateStringTest.test1 (1)" />
+        <item itemvalue="JUnit.StringRedisTemplateStringTest.test1" />
+        <item itemvalue="JUnit.StringRedisTemplateStringTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26512fbd-4719-40cb-ad8e-20b29bd9e88a" name="Default Changelist" comment="" />
+      <created>1602229476048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602229476048</updated>
+      <workItem from="1602229477409" duration="483000" />
+      <workItem from="1602230042964" duration="31243000" />
+      <workItem from="1602317883132" duration="107000" />
+      <workItem from="1602318000246" duration="14767000" />
+      <workItem from="1602460801531" duration="9554000" />
+      <workItem from="1602490592125" duration="2397000" />
+      <workItem from="1602493804019" duration="408000" />
+      <workItem from="1602494690682" duration="2068000" />
+      <workItem from="1602496773480" duration="8772000" />
+      <workItem from="1602549166444" duration="13955000" />
+      <workItem from="1602634748605" duration="26037000" />
+      <workItem from="1603154559336" duration="117000" />
+      <workItem from="1603154695193" duration="1249000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1602318821075">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1602318821075" />
+    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser" timestamp="1602572864775">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1602572864775" />
+    <state x="360" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602550011704">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="360" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1602550011704" />
+    <state x="397" y="229" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1602686533779">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="397" y="229" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1602686533779" />
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1603154732174">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603154732174" />
+    <state width="1237" height="35" key="GridCell.Tab.0.bottom" timestamp="1603090794944">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="35" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1603090794944" />
+    <state width="1237" height="35" key="GridCell.Tab.0.center" timestamp="1603090794943">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="35" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1603090794943" />
+    <state width="1237" height="35" key="GridCell.Tab.0.left" timestamp="1603090794943">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="35" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1603090794943" />
+    <state width="1237" height="35" key="GridCell.Tab.0.right" timestamp="1603090794944">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="35" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1603090794944" />
+    <state width="1237" height="104" key="GridCell.Tab.1.bottom" timestamp="1602753951472">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="104" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602753951472" />
+    <state width="1237" height="104" key="GridCell.Tab.1.center" timestamp="1602753951472">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="104" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1602753951472" />
+    <state width="1237" height="104" key="GridCell.Tab.1.left" timestamp="1602753951472">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="104" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1602753951472" />
+    <state width="1237" height="104" key="GridCell.Tab.1.right" timestamp="1602753951472">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="104" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1602753951472" />
+    <state width="1237" height="192" key="GridCell.Tab.2.bottom" timestamp="1602687369691">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602687369691" />
+    <state width="1237" height="192" key="GridCell.Tab.2.center" timestamp="1602687369690">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1602687369690" />
+    <state width="1237" height="192" key="GridCell.Tab.2.left" timestamp="1602687369690">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1602687369690" />
+    <state width="1237" height="192" key="GridCell.Tab.2.right" timestamp="1602687369691">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="192" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1602687369691" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1602686297747">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1602686297747" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1602496974745">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1602496974745" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1603154696719">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1603154696719" />
+    <state x="211" y="-15" width="638" height="680" key="find.popup" timestamp="1603090815589">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="211" y="-15" width="638" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1603090815589" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1603099166663">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1603099166663" />
+  </component>
+</project>
