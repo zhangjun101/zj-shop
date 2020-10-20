@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/zhangjun101/zj-shop-config.git #配置文件所在仓库
+          uri: https://github.com/zhangjun101/zj-shop.git #配置文件所在仓库
           #          username: github 登录账号
           #          password: github 登录密码
           default-label: master #配置文件分支
