@@ -22,15 +22,11 @@
 			<artifactId>common</artifactId>
 			<version>0.0.1</version>
 		</dependency>
-
-
+		<!-- eureka客户端-->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
 		</dependency>
-
-
-
 		<!-- spring cloud config 服务端包 -->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>

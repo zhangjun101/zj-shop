@@ -1,15 +1,18 @@
 server:
   port: 9001
   address: 127.0.0.1
-
 spring:
   application:
     name: eureka-server #应用名称
+
 eureka:
   instance:
     hostname: 127.0.0.1 #该服务实例所在主机名
+    prefer-ip-address: true #是否优先使用服务实例的IP地址，相较于hostname
   client:
     registerWithEureka: true #是否向注冊中心注冊自己
-    fetchRegistry: true      #是否需要檢索自己
+    fetchRegistry: false      #是否需要檢索自己
     serviceUrl:
       defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/ #erueka服務地址，“,”逗号分隔，可以写多个
+  server:
+    enable-self-preservation: false #关闭自我保护机制，默认为true
