@@ -1,0 +1,6 @@
+com\zj\generatorUtil\GeneratorTest.class
+com\zj\generatorUtil\tableNode\GoodsType.class
+com\zj\generatorUtil\tableNode\GoodsTypeMapper.class
+com\zj\result\ResultCodeEnum.class
+com\zj\result\Result.class
+com\zj\result\ZJException.class

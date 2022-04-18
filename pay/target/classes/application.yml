@@ -1,0 +1,56 @@
+logging:
+  level:
+    com.zj: debug
+
+server:
+  port: 9040
+
+#eureka配置
+eureka: 
+  client:
+    serviceUrl:
+      defaultZone: http://127.0.0.1:9001/eureka/
+    register-with-eureka: true #指示此实例是否应将其信息注册到eureka服务器以供其他服务发现，默认为true
+    registry-fetch-interval-seconds: 30 #从eureka服务器获取注册表信息的频率（s）
+  instance:
+    lease-renewal-interval-in-seconds: 30 #该服务实例向注册中心发送心跳间隔（s）
+    lease-expiration-duration-in-seconds: 90 #指示eureka服务器在删除此实例之前收到最后一次心跳之后等待的时间（s)
+
+# feign配置
+feign:
+  client:
+    config:
+      default:
+        loggerLevel: full # feign全局日志级别
+  hystrix:
+    enabled: true #开启feign的hystrix支持,默认是false
+
+#ribbon配置
+ribbon:
+  eager-load:
+    enabled: true #开启Ribbon的饥饿加载模式
+    clients: order-server,pay-server #指定需要饥饿加载的客户端名称、服务名
+
+spring:
+  application:
+    name: pay-server
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/zj_shop_pay?serverTimezone=GMT%2B8
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    #hikari数据库连接池
+    hikari:
+      #连接池中允许的最大连接数。缺省值：10；推荐的公式：((core_count * 2) + effective_spindle_count)
+      maximum-pool-size: 100
+      #一个连接idle状态的最大时长（毫秒），超时则被释放（retired），缺省:10分钟
+      idleTimeout: 600000
+      #连接只读数据库时配置为true， 保证安全
+      isReadOnly: false
+      #等待连接池分配连接的最大时长（毫秒），超过这个时长还没可用的连接则发生SQLException， 缺省:30秒
+      connectionTimeout: 30000
+      #一个连接的生命时长（毫秒），超时而且没被使用则被释放（retired），缺省:30分钟，建议设置比数据库超时时长少30秒，
+      #参考MySQL wait_timeout参数（show variables like '%timeout%';）
+      maxLifetime: 1800000
+      connection-test-query: SELECT 1
+

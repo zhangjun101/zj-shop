@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26512fbd-4719-40cb-ad8e-20b29bd9e88a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Interface" />
+        <option value="Kotlin Enum" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/soft/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\soft\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1idFHpVxR0vEsvRZGQ6Fa3kkxg2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/study/src/main/java/com/zj" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/api/pay-api/src/main/java/payManage" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaWorkSpace\zj-shop\common\src\main\java\com\zj\redis" />
+      <recent name="D:\ideaWorkSpace\zj-shop\study\src\main\resources" />
+      <recent name="D:\ideaWorkSpace\zj-shop\study\src\main\java\com\zj\io" />
+      <recent name="D:\ideaWorkSpace\zj-shop\common\src\main\resources" />
+      <recent name="D:\ideaWorkSpace\zj-shop\goods\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.zj.healthy" />
+      <recent name="com.zj" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zj.result" />
+      <recent name="com.zj.filter" />
+      <recent name="com.zj.generatorUtil" />
+      <recent name="" />
+      <recent name="com.zj" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaWorkSpace\zj-shop\api\pay-api\src\main\java\payManage" />
+      <recent name="D:\ideaWorkSpace\zj-shop\api\pay-api\src\main\java" />
+      <recent name="D:\ideaWorkSpace\zj-shop\api\pay-api\src\main\java\orderManage" />
+      <recent name="D:\ideaWorkSpace\zj-shop\message\src\main\java" />
+      <recent name="D:\ideaWorkSpace\zj-shop\goods\src\main\java\com\zj" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OrderServer">
+    <configuration name="goods []" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/goods" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="CommonServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zj-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zj.CommonServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="goods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zj.GoodsServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JxcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jxc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangjiangfei.JxcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="member" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zj.MemberServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="message" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zj.MessageServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zj.OrderServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="pay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zj.PayServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.goods []" />
+      <item itemvalue="Spring Boot.CommonServer" />
+      <item itemvalue="Spring Boot.JxcApplication" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Spring Boot.MemberServer" />
+      <item itemvalue="Spring Boot.GoodsServer" />
+      <item itemvalue="Spring Boot.OrderServer" />
+      <item itemvalue="Spring Boot.PayServer" />
+      <item itemvalue="Spring Boot.MessageServer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.PayServer" />
+        <item itemvalue="Spring Boot.OrderServer" />
+        <item itemvalue="Spring Boot.MemberServer" />
+        <item itemvalue="Spring Boot.MessageServer" />
+        <item itemvalue="Spring Boot.GoodsServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26512fbd-4719-40cb-ad8e-20b29bd9e88a" name="Default Changelist" comment="" />
+      <created>1602229476048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602229476048</updated>
+      <workItem from="1602229477409" duration="483000" />
+      <workItem from="1602230042964" duration="31243000" />
+      <workItem from="1602317883132" duration="107000" />
+      <workItem from="1602318000246" duration="14767000" />
+      <workItem from="1602460801531" duration="9554000" />
+      <workItem from="1602490592125" duration="2397000" />
+      <workItem from="1602493804019" duration="408000" />
+      <workItem from="1602494690682" duration="2068000" />
+      <workItem from="1602496773480" duration="8772000" />
+      <workItem from="1602549166444" duration="13955000" />
+      <workItem from="1602634748605" duration="26037000" />
+      <workItem from="1603154559336" duration="117000" />
+      <workItem from="1603154695193" duration="1990000" />
+      <workItem from="1603156705146" duration="5547000" />
+      <workItem from="1603162277577" duration="24812000" />
+      <workItem from="1603238730740" duration="26654000" />
+      <workItem from="1603378192199" duration="2560000" />
+      <workItem from="1603416011935" duration="12544000" />
+      <workItem from="1604902757079" duration="70000" />
+      <workItem from="1604902903105" duration="51000" />
+      <workItem from="1604903045637" duration="39736000" />
+      <workItem from="1605837165919" duration="2509000" />
+      <workItem from="1606292217888" duration="13000" />
+      <workItem from="1606292317732" duration="562000" />
+      <workItem from="1606316172034" duration="16700000" />
+      <workItem from="1606580237561" duration="12645000" />
+      <workItem from="1606727398646" duration="655000" />
+      <workItem from="1607590657510" duration="2362000" />
+      <workItem from="1607931213525" duration="1237000" />
+      <workItem from="1610982889237" duration="2321000" />
+      <workItem from="1611625017158" duration="8029000" />
+      <workItem from="1611729462404" duration="59306000" />
+      <workItem from="1612751742590" duration="1426000" />
+      <workItem from="1612853259979" duration="165000" />
+      <workItem from="1613613104035" duration="5163000" />
+      <workItem from="1614135107750" duration="13026000" />
+      <workItem from="1614176453765" duration="327000" />
+      <workItem from="1614177283980" duration="1131000" />
+      <workItem from="1614653053841" duration="2173000" />
+      <workItem from="1614665840405" duration="259000" />
+      <workItem from="1614666262092" duration="78000" />
+      <workItem from="1614667662655" duration="1725000" />
+      <workItem from="1614670478656" duration="793000" />
+      <workItem from="1616501429439" duration="1250000" />
+      <workItem from="1616502793574" duration="4512000" />
+      <workItem from="1616545362266" duration="5769000" />
+      <workItem from="1617088597303" duration="1891000" />
+      <workItem from="1619317959904" duration="14886000" />
+      <workItem from="1620347541818" duration="14813000" />
+      <workItem from="1620616222481" duration="2529000" />
+      <workItem from="1620636691300" duration="1511000" />
+      <workItem from="1621842419269" duration="21000" />
+      <workItem from="1621842461479" duration="7242000" />
+      <workItem from="1624608337523" duration="5110000" />
+      <workItem from="1625473348784" duration="394000" />
+      <workItem from="1625531501888" duration="595000" />
+      <workItem from="1625704615562" duration="1241000" />
+      <workItem from="1626249847220" duration="646000" />
+      <workItem from="1626311414534" duration="13434000" />
+      <workItem from="1627518291144" duration="3310000" />
+      <workItem from="1628068585622" duration="1230000" />
+      <workItem from="1628124202311" duration="1189000" />
+      <workItem from="1649830857195" duration="26709000" />
+    </task>
+    <task id="LOCAL-00001" summary="修改">
+      <created>1603160569864</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603160569864</updated>
+    </task>
+    <task id="LOCAL-00002" summary="修改">
+      <created>1603161070368</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603161070368</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修改">
+      <created>1603165703097</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603165703097</updated>
+    </task>
+    <task id="LOCAL-00004" summary="修改">
+      <created>1603174162733</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603174162733</updated>
+    </task>
+    <task id="LOCAL-00005" summary="修改">
+      <created>1603174389695</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603174389695</updated>
+    </task>
+    <task id="LOCAL-00006" summary="修改">
+      <created>1603174437630</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603174437630</updated>
+    </task>
+    <task id="LOCAL-00007" summary="修改">
+      <created>1603174651907</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603174651907</updated>
+    </task>
+    <task id="LOCAL-00008" summary="修改">
+      <created>1603176618097</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603176618097</updated>
+    </task>
+    <task id="LOCAL-00009" summary="修改">
+      <created>1603177323696</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603177323696</updated>
+    </task>
+    <task id="LOCAL-00010" summary="修改">
+      <created>1603178647285</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603178647285</updated>
+    </task>
+    <task id="LOCAL-00011" summary="修改">
+      <created>1603182686357</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1603182686357</updated>
+    </task>
+    <task id="LOCAL-00012" summary="修改">
+      <created>1603184436919</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1603184436919</updated>
+    </task>
+    <task id="LOCAL-00013" summary="修改">
+      <created>1603184766321</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1603184766321</updated>
+    </task>
+    <task id="LOCAL-00014" summary="修改">
+      <created>1603188355906</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1603188355906</updated>
+    </task>
+    <task id="LOCAL-00015" summary="修改">
+      <created>1650011222655</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1650011222655</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1649917380701">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1649917380701" />
+    <state x="414" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1649836504642">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="414" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1649836504642" />
+    <state x="246" y="6" key="CommitChangelistDialog2" timestamp="1650011210894">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="246" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1650011210894" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1649830887742">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1649830887742" />
+    <state width="1493" height="48" key="GridCell.Tab.0.bottom" timestamp="1650267483445">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="48" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1650267483445" />
+    <state width="1493" height="48" key="GridCell.Tab.0.center" timestamp="1650267483445">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="48" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1650267483445" />
+    <state width="1493" height="48" key="GridCell.Tab.0.left" timestamp="1650267483445">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="48" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1650267483445" />
+    <state width="1493" height="48" key="GridCell.Tab.0.right" timestamp="1650267483445">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="48" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1650267483445" />
+    <state width="1493" height="48" key="GridCell.Tab.1.bottom" timestamp="1650267483446">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="48" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1650267483446" />
+    <state width="1493" height="48" key="GridCell.Tab.1.center" timestamp="1650267483445">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="48" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1650267483445" />
+    <state width="1493" height="48" key="GridCell.Tab.1.left" timestamp="1650267483445">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="48" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1650267483445" />
+    <state width="1493" height="48" key="GridCell.Tab.1.right" timestamp="1650267483446">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="48" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1650267483446" />
+    <state width="1493" height="48" key="GridCell.Tab.2.bottom" timestamp="1650267483446">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="48" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1650267483446" />
+    <state width="1493" height="48" key="GridCell.Tab.2.center" timestamp="1650267483446">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="48" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1650267483446" />
+    <state width="1493" height="48" key="GridCell.Tab.2.left" timestamp="1650267483446">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="48" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1650267483446" />
+    <state width="1493" height="48" key="GridCell.Tab.2.right" timestamp="1650267483446">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="48" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1650267483446" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1650011339534">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1650011339534" />
+    <state x="447" y="145" width="642" height="534" key="find.popup" timestamp="1649920064369">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="145" width="642" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1649920064369" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/study/src/main/java/com/zj/pdforexcel/DownPdfController.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

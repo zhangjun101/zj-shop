@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config-10000.iml" filepath="$PROJECT_DIR$/config/config-10000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goods/goods.iml" filepath="$PROJECT_DIR$/goods/goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zj-api/order-api/majiaxueyuan-order-api.iml" filepath="$PROJECT_DIR$/zj-api/order-api/majiaxueyuan-order-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zj-api/pay-api/majiaxueyuan-pay-api.iml" filepath="$PROJECT_DIR$/zj-api/pay-api/majiaxueyuan-pay-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/member/member.iml" filepath="$PROJECT_DIR$/member/member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/message/message.iml" filepath="$PROJECT_DIR$/message/message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order/order.iml" filepath="$PROJECT_DIR$/order/order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/order-api/order-api.iml" filepath="$PROJECT_DIR$/api/order-api/order-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pay/pay.iml" filepath="$PROJECT_DIR$/pay/pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/pay (1).iml" filepath="$PROJECT_DIR$/config/pay (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/pay-api/pay-api.iml" filepath="$PROJECT_DIR$/api/pay-api/pay-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zj-common/zj-common.iml" filepath="$PROJECT_DIR$/zj-common/zj-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zj-eureka/zj-eureka.iml" filepath="$PROJECT_DIR$/zj-eureka/zj-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zj-member/zj-member.iml" filepath="$PROJECT_DIR$/zj-member/zj-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zj-message/zj-message.iml" filepath="$PROJECT_DIR$/zj-message/zj-message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zj-order/zj-order.iml" filepath="$PROJECT_DIR$/zj-order/zj-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zj-pay/zj-pay.iml" filepath="$PROJECT_DIR$/zj-pay/zj-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zj-shop.iml" filepath="$PROJECT_DIR$/.idea/zj-shop.iml" />
+    </modules>
+  </component>
+</project>

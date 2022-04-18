@@ -1,0 +1,49 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.zj</groupId>
+		<artifactId>shop</artifactId>
+		<version>0.0.1</version>
+	</parent>
+
+	<groupId>com.zj</groupId>
+	<artifactId>config</artifactId>
+	<version>0.0.1</version>
+	<packaging>jar</packaging>
+	<name>config</name>
+	<description>配置中心</description>
+
+	<dependencies>
+		<!--引入公共模块-->
+		<dependency>
+			<groupId>com.zj</groupId>
+			<artifactId>common</artifactId>
+			<version>0.0.1</version>
+		</dependency>
+
+
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
+		</dependency>
+
+
+
+		<!-- spring cloud config 服务端包 -->
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-config-server</artifactId>
+		</dependency>
+
+
+		<!--引入api模块-->
+<!--		<dependency>-->
+<!--			<groupId>com.zj</groupId>-->
+<!--			<artifactId>order-api</artifactId>-->
+<!--			<version>0.0.1</version>-->
+<!--		</dependency>-->
+
+	</dependencies>
+</project>

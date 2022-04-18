@@ -1,0 +1,6 @@
+com\zj\common\generatorUtil\GeneratorTest.class
+com\zj\GoodsServer.class
+com\zj\redis\GoodsManageController.class
+com\zj\healthy\HealthyController.class
+com\zj\redis\GoodsEntity.class
+com\zj\result\Result.class

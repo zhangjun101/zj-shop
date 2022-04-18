@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/config-10000/src/main/resources/config2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/config/src/main/resources/config2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/config/src/main/resources/gitConfig" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot" vcs="Git" />
+  </component>
+</project>
