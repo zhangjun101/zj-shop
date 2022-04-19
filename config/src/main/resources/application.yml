@@ -13,7 +13,6 @@ spring:
     name: config-server
   cloud:
     config:
-#      profile: dev
       server:
         git:
           # uri: git@github.com:zhangjun101/zj-shop.git #git仓库地址
@@ -23,6 +22,6 @@ spring:
           username: 15828411534@163.com #git帐号
           password: zby101908 #git密码
           default-label: main #配置文件分支
-          search-paths: config/src/main/resources/config/**   #配置文件所在根目录（相对于git跟目录）,多个路径逗号隔开
+          search-paths: config/src/main/resources/config   #配置文件所在根目录（相对于git跟目录）,多个路径逗号隔开
           basedir: C:\Users\zby\Desktop\zjshopconfig # 对于使用git,svn做为后端配置，从远程库获取配置文件，需要存储到本地文件
           force-pull: true # 配置中心通过git从远程git库，有时本地的拷贝被污染，这时配置中心无法从远程库更新本地配置,设置force-pull=true，则强制从远程库中更新本地库
