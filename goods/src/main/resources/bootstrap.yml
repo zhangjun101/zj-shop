@@ -1,14 +1,27 @@
 server:
   port: 9010
+
+#注册中心配置
 eureka:
   client:
     register-with-eureka: true
     fetch-registry: true
     serviceUrl:
       defaultZone: http://127.0.0.1:9001/eureka/
+
 spring:
   application:
     name: goods-server
+
+  #Config客户端配置
+  cloud:
+    config:
+      label: main #分支名称
+      name: goods-server #配置文件名称
+      profile: dev #读取后缀名称
+      uri: http://localhost:10002 #上面配置中心地址
+
+  #数据源配置
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/zj_shop_goods?serverTimezone=GMT%2B8
     username: root
